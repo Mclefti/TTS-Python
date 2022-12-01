@@ -1,0 +1,16 @@
+Changelog 
+
+v0.1
+
+
+	
+
+	.1 TTS is now working (waiting to be implemented)
+	
+	.2 GUI is now is in Progrsss
+
+
+
+Errors
+	
+	*Text box is too big
