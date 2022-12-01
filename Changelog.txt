@@ -1,15 +1,28 @@
-Changelog 
+CHangelog v0.2
 
-v0.1
+	.1 added buttons
+	.2 added button functions
+		.2.1 added playsound 
+		.2.2 added stopsound
+		.2.3 added createsoundfile
+		.2.4 added savetext
+		.2.5 added instant
+		.2.6 added pausesound
+		.2.7 added unpausesound
+	.3 change color of buttons
+	.4 added Text to Speech Header
+	.5 added textbox
+
+Errors
+	.2.5.1 instant doesn't work again
 
 
-	
+
+Changelog v0.1
 
 	.1 TTS is now working (waiting to be implemented)
 	
 	.2 GUI is now is in Progrsss
-
-
 
 Errors
 	
